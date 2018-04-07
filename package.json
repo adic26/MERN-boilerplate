@@ -1,11 +1,11 @@
 {
-  "name": "MERN-boilerplate",
+  "name": "Project-boilerplate",
   "version": "1.0.0",
-  "description": "MERN stack project boilerplate",
-  "author": "Eugene Cheung",
+  "description": "Project stack project boilerplate",
+  "author": "Adi Chugh",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arkon/MERN-boilerplate.git"
+    "url": "git+https://github.com/arkon/Project-boilerplate.git"
   },
   "license": "MIT",
   "private": true,
